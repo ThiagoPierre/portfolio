@@ -6,3 +6,4 @@
 👀 Take a look around and let me know what you think.</br>
 📨 Don't hesitate to reach out if you're interested in working together.</br>
 🙌 Thanks for stopping by!</br>
+Link: https://thiagopierre.dev
