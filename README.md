@@ -1,4 +1,4 @@
-👨‍💻💻 Welcome to my portfolio website! </br>
+👨‍💻💻 Welcome to my portfolio website! <br />
 🚀 Here, you'll find a showcase of my projects and skills.</br>
 💪 I've put a lot of effort into creating this site, and I'm excited to share it with you.</br>
 🌟 From web development to data analysis, you'll see the breadth of my experience.</br>
